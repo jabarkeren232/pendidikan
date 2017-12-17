@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelajarBIndoXI</string>
+    <string name="List_materi">List Materi</string>
+    <string name="Detail_materi">Isi Materi</string>
+    <string name="Tentang">Tentang</string>
+    <string name="Hiburan">Hiburan</string>
+</resources>
